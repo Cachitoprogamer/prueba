@@ -1,0 +1,6 @@
+- [x] #todo **[[Toc]]**: Para lunes 11/11. Exposición
+- [x] #todo **[[Social]]**: Terminar trabajos. Hacer cuando pueda
+- [x] #todo **[[Inglés]]**: Para miércoles 6/11. Exposición
+- [x] #todo **[[RN]]**: Completar el cuaderno. Hacer cuando pueda
+- [ ] #todo **[[Química]]**: ESTUDIAR CUANDO PUEDA
+- [ ] #todo [[Biología]]: 
